@@ -19,7 +19,7 @@ We have completed the frontend development and are currently training the AI mod
 ### Flowchart
 Here's an overview of the KYR platform flow:
 
-![alt text]([http://url/to/img.png](https://ibb.co/r6MgFdw))
+![alt text](https://ibb.co/r6MgFdw)
 
 This flowchart illustrates the interaction between the user and the KYR Digital Assistant. The user interacts with the assistant to receive legal information and guidance.
 
